@@ -1,5 +1,6 @@
   # Order Book Trading
-  
+
+#### [App Store](apps.apple.com/app/id1590351885)
  
   
 ![Order Book Logo](/1.jpg)
@@ -54,3 +55,5 @@ On the upper view you can see at what price level the limit order is placed and 
 This is a simple indicator of binance top traders positions for a specific currency. Short to long ratio.
 If the text is green, then more the 50% of traders are now in the long.
 If the text is rad then the most traders are in short.
+
+#### [App Store](apps.apple.com/app/id1590351885)
