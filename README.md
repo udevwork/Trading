@@ -2,8 +2,7 @@
 
 #### [App Store](apps.apple.com/app/id1590351885)
  
-  
-![Order Book Logo](/1.jpg)
+![Order Book Logo](/4.jpg)
   
 An advanced platform is necessary to track the quickly changing cryptocurrency market. Our Coin Screener is customizable and is the most interactive in the crypto space. It displays multiple coins and timeframes on a single screen. Compared to the rest of the crypto space, our screener provides a comprehensive display of technical metrics helping you focus on potential entry and exit points.
   
@@ -13,6 +12,8 @@ An advanced platform is necessary to track the quickly changing cryptocurrency m
   - Data update in realtime.
   - New search settings and indicators.
   - Now for the iPad.
+  
+![Order Book Logo](/1.jpg)
   
   Short list of features:
   - Screener. Automatic search for the biggest limit orders.
