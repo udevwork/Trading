@@ -2,7 +2,7 @@
 
 #### [App Store](apps.apple.com/app/id1590351885)
 
-#### [Trading Strategy EN](pages/TradingStrategyEN.md)
+#### [Trading Strategy EN](pages/TradingStrategyEN.md), [RU](TradingStrategyRU.md)
 
 #### [Telegram channel](https://t.me/orderbooktrading)
  
