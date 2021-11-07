@@ -1,4 +1,5 @@
 # Trading strategy using the program
+[RU](TradingStrategyRU.md).
 
 Today we will analyze one of the most common strategies for trading cryptocurrency and a tool that claims to be a "must have"  tool that helps to facilitate the trader's work. The trading strategy is based on the work with the limit orders’ density in the order book. We will analyze how to find limit orders later, first we need to figure out how to work with levels.
 Levels are the most important tool in any financial markets, including the cryptocurrency market. Levels are where there is an imbalance between buyers and sellers.
