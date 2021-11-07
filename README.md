@@ -2,7 +2,7 @@
 
 #### [App Store download link](apps.apple.com/app/id1590351885)
 
-#### [Trading Strategy EN](pages/TradingStrategyEN.md), [RU](TradingStrategyRU.md)
+#### [Trading Strategy EN](pages/TradingStrategyEN.md), [RU](pages/TradingStrategyRU.md)
 Trading strategy using the "Order Book Trading" application. Suitable for beginners. Designed for medium or short-term trading. Learning levels and limit clusters at levels
 
 #### [Telegram channel](https://t.me/orderbooktrading)
