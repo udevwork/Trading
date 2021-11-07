@@ -1,6 +1,10 @@
   # Order Book Trading
 
 #### [App Store](apps.apple.com/app/id1590351885)
+
+#### [Trading Strategy EN](TradingStrategyEN.md)
+
+#### [Telegram channel](https://t.me/orderbooktrading)
  
 ![Order Book Logo](/4.jpg)
   
@@ -58,3 +62,7 @@ If the text is green, then more the 50% of traders are now in the long.
 If the text is rad then the most traders are in short.
 
 #### [App Store](apps.apple.com/app/id1590351885)
+
+#### [Trading Strategy EN](TradingStrategyEN.md)
+
+#### [Telegram channel](https://t.me/orderbooktrading)
