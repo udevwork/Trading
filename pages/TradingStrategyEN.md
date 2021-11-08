@@ -1,4 +1,5 @@
 # Trading strategy using the program
+[RU](/pages/TradingStrategyRU.md).
 
 Today we will analyze one of the most common strategies for trading cryptocurrency and a tool that claims to be a "must have"  tool that helps to facilitate the trader's work. The trading strategy is based on the work with the limit orders’ density in the order book. We will analyze how to find limit orders later, first we need to figure out how to work with levels.
 Levels are the most important tool in any financial markets, including the cryptocurrency market. Levels are where there is an imbalance between buyers and sellers.
@@ -17,7 +18,7 @@ There is a great search solution - a cryptocurrency screener app for macOS, iPho
 
 At the beginning of the article we said that we will consider two strategies "rebound" and "breakout". To understand which strategy to use, find on the chart how many times the price touched the found level. If there were no more than 3 such touches, then choose the “rebound” strategy, if there were more than 3 touches - a breakout.
 
-![chart adausdt](/chart_adausdt.png)
+![chart adausdt](/images/chart_adausdt.jpg)
 
 Take a look at the ADA/USDT chart above. The limit order found by the program for the ADA/USDT currency pair, worth $ 2 million, is marked with a green line at the price level of $ 1.9.
 Purple rectangles mark levels or “resistance” zones.

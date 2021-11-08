@@ -1,12 +1,13 @@
   # Order Book Trading
 
-#### [App Store](apps.apple.com/app/id1590351885)
+#### [App Store download link](apps.apple.com/app/id1590351885)
 
-#### [Trading Strategy EN](TradingStrategyEN.md)
+#### [Trading Strategy EN](pages/TradingStrategyEN.md), [RU](pages/TradingStrategyRU.md)
+Trading strategy using the "Order Book Trading" application. Suitable for beginners. Designed for medium or short-term trading. Learning levels and limit clusters at levels
 
 #### [Telegram channel](https://t.me/orderbooktrading)
  
-![Order Book Logo](/4.jpg)
+![Order Book Logo](images/4.jpg)
   
 An advanced platform is necessary to track the quickly changing cryptocurrency market. Our Coin Screener is customizable and is the most interactive in the crypto space. It displays multiple coins and timeframes on a single screen. Compared to the rest of the crypto space, our screener provides a comprehensive display of technical metrics helping you focus on potential entry and exit points.
   
@@ -17,7 +18,7 @@ An advanced platform is necessary to track the quickly changing cryptocurrency m
   - New search settings and indicators.
   - Now for the iPad.
   
-![Order Book Logo](/1.jpg)
+![Order Book Logo](images/1.jpg)
   
   Short list of features:
   - Screener. Automatic search for the biggest limit orders.
@@ -27,7 +28,7 @@ An advanced platform is necessary to track the quickly changing cryptocurrency m
   
 After launching the application, it connects to the websocket, that means that the data on prices and percentages are updated in real time. However, it takes about 30 seconds to get the order book of all currencies.
 
-![Order Book Logo](/3.jpg)
+![Order Book Logo](images/3.jpg)
     
 ## Dashboard
     
@@ -40,7 +41,7 @@ At the top left corner of the cell you can find the name of the currency.
 The color of the cell frame depend on whether the limit order is now for found at ask or at bid. If the cell frame is green, then the big limit is on the bid. If the cell frame red, then the big limit is on the ask. Pay attention to the intensity of the color! The brighet the color the bigger the limit order.
 You can change the search filter in the settings.
 
-![Order Book Logo](/2.jpg)
+![Order Book Logo](images/2.jpg)
 
 ## News
 
@@ -63,6 +64,6 @@ If the text is rad then the most traders are in short.
 
 #### [App Store](apps.apple.com/app/id1590351885)
 
-#### [Trading Strategy EN](TradingStrategyEN.md)
+#### [Trading Strategy EN](images/TradingStrategyEN.md)
 
 #### [Telegram channel](https://t.me/orderbooktrading)
