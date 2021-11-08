@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "uDev Trading",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -44,14 +44,15 @@
     "versionPublish": "5.5.0",
     "imageResize": false,
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "qsmkmgjxzf",
+    "favicon": "@PROJECT_PATH@/assets/images/order-book-trading-icon-small.png",
+    "mbrsiteDomain": "zmtggryweg",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
