@@ -7,19 +7,17 @@ Trading strategy using the "Order Book Trading" application. Suitable for beginn
 
 #### [Telegram channel](https://t.me/orderbooktrading)
  
-![Order Book Logo](images/4.jpg)
+![Order Book Logo](images/MacBookiPadiPhone-2.png)
   
 An advanced platform is necessary to track the quickly changing cryptocurrency market. Our Coin Screener is customizable and is the most interactive in the crypto space. It displays multiple coins and timeframes on a single screen. Compared to the rest of the crypto space, our screener provides a comprehensive display of technical metrics helping you focus on potential entry and exit points.
   
   Last update:
   - Cryptocurrency Screener.
-  - A completely new dashboard with the search for limits of more than 120 cryptocurrencies.
+  - A completely new dashboard with the search for limits of more than 350 cryptocurrencies.
   - Data update in realtime.
   - New search settings and indicators.
   - Now for the iPad.
-  
-![Order Book Logo](images/1.jpg)
-  
+    
   Short list of features:
   - Screener. Automatic search for the biggest limit orders.
   - Chart.
@@ -27,8 +25,6 @@ An advanced platform is necessary to track the quickly changing cryptocurrency m
   - News with short/long indicator.
   
 After launching the application, it connects to the websocket, that means that the data on prices and percentages are updated in real time. However, it takes about 30 seconds to get the order book of all currencies.
-
-![Order Book Logo](images/3.jpg)
     
 ## Dashboard
     
@@ -40,8 +36,6 @@ At the top left corner of the cell you can find the name of the currency.
 
 The color of the cell frame depend on whether the limit order is now for found at ask or at bid. If the cell frame is green, then the big limit is on the bid. If the cell frame red, then the big limit is on the ask. Pay attention to the intensity of the color! The brighet the color the bigger the limit order.
 You can change the search filter in the settings.
-
-![Order Book Logo](images/2.jpg)
 
 ## News
 
