@@ -18,7 +18,7 @@ There is a great search solution - a cryptocurrency screener app for macOS, iPho
 
 At the beginning of the article we said that we will consider two strategies "rebound" and "breakout". To understand which strategy to use, find on the chart how many times the price touched the found level. If there were no more than 3 such touches, then choose the “rebound” strategy, if there were more than 3 touches - a breakout.
 
-![chart adausdt](/images/chart_adausdt.jpg)
+![chart adausdt](/images/chart_adausdt.png)
 
 Take a look at the ADA/USDT chart above. The limit order found by the program for the ADA/USDT currency pair, worth $ 2 million, is marked with a green line at the price level of $ 1.9.
 Purple rectangles mark levels or “resistance” zones.
@@ -26,8 +26,6 @@ Notice how the price bounced off the first resistance zone several times. The pr
 To trade we just need to correctly place our limit order, stop-loss, take-profit and find the entry point to the position. This is done very simply: if the price approaches the level from above, then you need to open a long position for a rebound. The stop should be placed under the limit order that our program found, and the take profit should be calculated from the volatility of the currency. The higher the volatility and the greater the amplitude of the price movement, the more profit you can take.
 Trading does not require the use of special terminals, the web version of Binance and any device from Apple is enough to install the “order book” program.
 
-[TradingView](https://ru.tradingview.com/chart/ADAUSDT/5b16LrQa-order-book-trading/).
-
 [Download link](https://apps.apple.com/app/id1590351885).
 
-[Author](t.me/engineerios).
+[Telegram bot](https://t.me/orderbooktrading_bot).
