@@ -1,6 +1,6 @@
   # Order Book Trading
 
-#### [App Store download link](apps.apple.com/app/id1590351885)
+#### [App Store download link](https://apps.apple.com/app/id1590351885)
 
 #### [Trading Strategy EN](pages/TradingStrategyEN.md), [RU](pages/TradingStrategyRU.md)
 Trading strategy using the "Order Book Trading" application. Suitable for beginners. Designed for medium or short-term trading. Learning levels and limit clusters at levels
@@ -56,7 +56,7 @@ This is a simple indicator of binance top traders positions for a specific curre
 If the text is green, then more the 50% of traders are now in the long.
 If the text is rad then the most traders are in short.
 
-#### [App Store](apps.apple.com/app/id1590351885)
+#### [App Store](https://apps.apple.com/app/id1590351885)
 
 #### [Trading Strategy EN](images/TradingStrategyEN.md)
 
